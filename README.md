@@ -32,11 +32,17 @@ Thêm, sửa, xóa sách:
 
 ## Thành viên
 Nhóm trưởng: Nguyễn Đức Trọng MSSV: 110123195 Tìm hiểu CakePHP, mô hình MVC, tổng hợp mã nguồn và báo cáo;
+
 Thành viên: Kim Ngọc Thuật MSSV:110123051 Cài đặt XAMPP, Composer, tạo database và kết nối MySQL  ;
+
 Thành viên: Đinh Thái Tài MSSV:110123170  Tạo Controller cập nhật thông tin;
-Thành viên: Lê Nhất Thiện MSSV:110123180  Thêm sách, sửa sách và cập nhật thông tin;
+
+Thành viên: Lê Nhất Thiện MSSV:110123180  Thêm sách, sửa sách và cập nhật thông tin
+
 Thành viên: Kim Thanh Tùng MSSV:110123197 Xóa sách, đăng nhập và phân quyền;
+
 Thành viên: Trương Duy Tân MSSV:110123259  Kiểm thử chương trình, tổng hợp kết quả và hoàn thiện báo cáo;
+
 Thư ký: Nguyễn Hữu Tiến MSSV:110123185 Hiển thị danh sách sách, xem chi tiết, tìm kiếm và phân trang;
 
 Demo quản lý nội bộ trên localhost, chưa có mua hàng.
